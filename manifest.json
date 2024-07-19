@@ -1,0 +1,17 @@
+{
+  "name": "Network-first PWA boilerplate",
+  "short_name": "PWA",
+  "description": "Insert desc.",
+  "theme_color": "#48BB78",
+  "background_color": "#2D3748",
+  "scope": ".",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
